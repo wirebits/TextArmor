@@ -15,7 +15,15 @@ A tool that encodes and decodes text with password.
 1. Download or Clone the Repository.
 2. Open the folder.
 3. Open `CMD/Powershell` (Windows) or `Terminal` (Linux/MacOS) in that folder.
-4. Type `python TextArmor.py` (Windows) or `python3 TextArmor.py` (Linux/MacOS) in it.
+4. Type :
+   - Windows
+   - ```
+     python TextArmor.py
+     ```
+   - Linux/MacOS
+   - ```
+     python3 TextArmor.py
+     ```
 5. Hit Enter.
    - It open a GUI interface in terminal.
 6. Follow the instructions and use the tool!
