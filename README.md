@@ -4,12 +4,12 @@
 A tool that encode and decode text with password.
 
 # ⏳Working
-It basically takes text or .txt files as input and encode/decode using base64 and Hexadecimal.
+It basically takes text or .txt files as input and encode/decode using `base64`, `Hexadecimal`, `Binary` and `Octal`.
 
 # ✨Features
 - Minimal Setup.
 - Encode/Decode with password.
-- Encode and decode using base64 and Hexadecimal.
+- Encode and decode using 4 methods : `base64`, `Hexadecimal`, `Binary`, `Octal`.
 - It works on both text and `.txt` files.
 - Passowrd supports special characters.
 - It takes auto completion path of files.
@@ -22,9 +22,10 @@ It basically takes text or .txt files as input and encode/decode using base64 an
 # ⚙️Setup
 
 >[!CAUTION]
->The requirements.txt file is for windows only.
+>The `requirements.txt` file is for windows only.
 
-- Install the pyreadline3 module on your system (Windows/Linux/MacOS) by copy and run the following command :
+- Install the **pyreadline3** module on your system (Windows/Linux/MacOS)
+by copy and run the following command :
 ```
 pip3 install -r requirements.txt
 ```
